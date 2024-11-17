@@ -1,0 +1,5 @@
+loguru==0.7.2
+openai==1.54.4
+python-dotenv==1.0.1
+ruff==0.7.4
+socksio==1.0.0
